@@ -23,7 +23,7 @@
  - Ensure the microcontroller's code advertises a BLE service and characteristic matching the UUIDs in `sketch.js`.
  - The example Arduino sketch for this project is in the .ino file — adapt the pin and I2C settings to your board.
 
-![Image of the circuit I made](ExampleOfCircuit.png)
+![Image of the circuit I made](Example_of_Circuit.png)
 
 **How to use (quick rundown)**
 - Serve the project from localhost (or via the p5.js web editor). Web Bluetooth requires a secure context (https) or localhost.
