@@ -1,13 +1,14 @@
 
 **Haptics + GUI Research Snack TO-GO**
 
+
 **Overview**
 - This project is a p5.js GUI that sends simple numeric "pattern" commands over BLE from the web to a microcontroller which drives an Adafruit DRV2605L haptic motor driver. Pressing buttons on the GUI corresponds to output vibrations from the DRV2605L driver library. This is different to what I demoed in class -- this is a simpler version and requires fewer parts (parts list should be borrowable). It utilizes p5.js and BLE material that DF students should find familiar from past coursework (this will be a challenging project to recreate without previous experience with Bluetooth or p5.js). The focuses of this project are designing GUI -> output on vibration motor and exploring the DRV2605L haptic motor driver library.
 
 **Materials**
 - **Haptic driver:** Adafruit DRV2605L haptic motor driver highly reccomended and is used in this project
 - **Microcontroller with BLE:** ex. Arduino Nano 33 BLE / Nano BLE Sense (I used Arduino Nano Sense for this project) -- CPX does not have Bluetooth capabilities as-is!!
-- **Screen** Laptop, tablet, or desktop to run the p5.js GUI in a supported browser (I use Chrome -- note that BLE is unsupported generally on mobile devices)
+- **Screen:** Laptop, tablet, or desktop to run the p5.js GUI in a supported browser (I use Chrome -- note that BLE is unsupported generally on mobile devices)
 - **Vibration motor(s):** Coin or eccentric rotating mass (ERM) / LRA motors compatible with the driver (I used the same mini ERM pancake motor from Kate's haptics class)
 - **Power & wiring:** Appropriate power supply / wiring to the driver and motors (this can be a 5V battery, powered from your computer, or powered through an outlet)
 
