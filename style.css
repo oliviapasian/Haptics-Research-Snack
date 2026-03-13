@@ -1,0 +1,32 @@
+html, body {
+  margin: 0;
+  padding: 0;
+    user-select: none;
+  touch-action: none;
+  -webkit-user-select: none; 
+}
+canvas {
+  display: block;
+}
+
+#text1{
+  position:absolute;
+  top: 60px;
+  left: 150px;
+  font-family: monaco;
+  font-size: 12px;  
+    color: #497BD5;
+
+}
+
+#text2{
+  position:absolute;
+    top: 60px;
+  left: 500px;
+  font-family: monaco;
+  font-size: 12px;
+  color: #497BD5;
+  width: 500px;
+  
+}
+
