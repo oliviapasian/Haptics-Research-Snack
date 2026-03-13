@@ -15,7 +15,7 @@
 
 **Previous experience suggested**
 - **p5.js & Web Bluetooth:** Intermediate to advanced — comfortable editing sketches, adding UI, and understanding how Web Bluetooth pairs and writes to characteristics.
-- **Physical computing / electronics / microcontrollers:** Intermediate — comfortable using the Arduino IDE, flashing sketches, and reading Serial output for debugging. Also soldering, power motors safely, and understand power/current limits.
+- **Physical computing / electronics / microcontrollers:** Intermediate — comfortable using the Arduino IDE, flashing sketches, and reading Serial output for debugging. Also soldering, powering motors safely, and understanding power/current limits.
 - **Adafruit DRV2605L haptic driver:** Beginner-level — don't necessarily need previous experience (the datasheet is very helpful to geet started), but basic familiarity with the Adafruit library and playing built-in waveforms is helpful.
 
 **Wiring & Notes**
