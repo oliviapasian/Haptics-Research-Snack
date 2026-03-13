@@ -24,7 +24,7 @@
  - The example Arduino sketch for this project is in the .ino file — adapt the pin and I2C settings to your board.
 
 ![Image of the circuit I made](Example_of_Circuit.png)
-Kate's Haptics lecture slides have better & more detailed examples of circuits with the haptic motor driver!
+_Kate's Haptics lecture slides have better & more detailed examples of circuits with the haptic motor driver!_
 
 **How to use (quick rundown)**
 - Serve the project from localhost (or via the p5.js web editor). Web Bluetooth requires a secure context (https) or localhost.
@@ -49,8 +49,8 @@ Kate's Haptics lecture slides have better & more detailed examples of circuits w
 
 **BLE UUIDs**
 - Default values used in the sketch (change as required to match your microcontroller code):
-  - Service: `19b10000-e8f2-537e-4f6c-d104768a1214`
-  - Characteristic: `19b10001-e8f2-537e-4f6c-d104768a1214`
+  - Service: 19b10000-e8f2-537e-4f6c-d104768a1214
+  - Characteristic: 19b10001-e8f2-537e-4f6c-d104768a1214
 
 
 **Helpful links**
